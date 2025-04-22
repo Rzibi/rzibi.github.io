@@ -4,5 +4,98 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+<style>
+.timeline {
+  position: relative;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 2px;
+  background-color: #333;
+  top: 0;
+  bottom: 0;
+  left: 15px;
+  margin-left: -1px;
+}
+
+.container {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  margin-bottom: 20px;
+}
+
+.container::after {
+  content: '';
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  left: 15px;
+  background-color: #718096;
+  border: 4px solid #4A5568;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 1;
+  margin-left: -17px;
+}
+
+.date {
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: #2D3748;
+}
+
+.org {
+  font-style: italic;
+  color: #4A5568;
+  margin-bottom: 8px;
+}
+
+.position {
+  font-weight: bold;
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  color: #1A202C;
+}
+
+.details ul {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+</style>
+
+## My Experience
+
+<div class="timeline">
+  <div class="container">
+    <div class="date">01.2023 - present</div>
+    <div class="org">IQS Sp. z o.o. - Warsaw, Poland (market research) (www.grupaiqs.pl)</div>
+    <div class="position">Data Analyst</div>
+  </div>
+  
+  <div class="container">
+    <div class="date">07.2021 - 12.2022</div>
+    <div class="org">IQS Sp. z o.o. - Warsaw, Poland</div>
+    <div class="position">IT Support/Junior Web Developer</div>
+  </div>
+</div>
+
+## My Education
+
+<div class="timeline">
+  <div class="container">
+    <div class="date">10.2024 - Present</div>
+    <div class="org">SGH Warsaw School of Economics</div>
+    <div class="position">Master's Degree in Advanced Analytics: Big Data</div>
+  </div>
+  
+  <div class="container">
+    <div class="date">10.2021 - 07.2024</div>
+    <div class="org">SGH Warsaw School of Economics</div>
+    <div class="position">Bachelor's Degree in Quantitative Methods in Economics and Information Systems</div>
+  </div>
+</div>
