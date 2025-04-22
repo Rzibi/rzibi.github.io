@@ -1,9 +1,3 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
 <style>
 .timeline {
   position: relative;
@@ -15,7 +9,7 @@ order: 4
   content: '';
   position: absolute;
   width: 2px;
-  background-color: #333;
+  background-color: var(--border-color);
   top: 0;
   bottom: 0;
   left: 15px;
@@ -32,26 +26,25 @@ order: 4
 .container::after {
   content: '';
   position: absolute;
-  width: 16px;
-  height: 16px;
-  left: 15px;
-  background-color: #718096;
-  border: 4px solid #4A5568;
+  width: 12px;
+  height: 12px;
+  background-color: var(--body-bg);
+  border: 3px solid var(--link-color);
   top: 15px;
   border-radius: 50%;
   z-index: 1;
-  margin-left: -17px;
+  /* Fix dot centering */
+  left: 15px;
+  transform: translateX(-50%);
 }
 
 .date {
   font-weight: bold;
   margin-bottom: 5px;
-  color: #2D3748;
 }
 
 .org {
   font-style: italic;
-  color: #4A5568;
   margin-bottom: 8px;
 }
 
@@ -59,12 +52,17 @@ order: 4
   font-weight: bold;
   font-size: 1.2em;
   margin-bottom: 10px;
-  color: #1A202C;
 }
 
 .details ul {
   margin-top: 0;
   margin-bottom: 15px;
+}
+
+/* Adjust for dark mode if needed */
+html[data-mode="dark"] .container::after {
+  background-color: var(--body-bg);
+  border-color: var(--link-color);
 }
 </style>
 
