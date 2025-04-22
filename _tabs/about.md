@@ -1,4 +1,4 @@
----
+<!-- ---
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
@@ -121,4 +121,4 @@ Thank you again for visiting my page! I hope it won’t be your last time :\)
     <div class="org">SGH Warsaw School of Economics</div>
     <div class="position">Bachelor's Degree in Quantitative Methods in Economics and Information Systems</div>
   </div>
-</div>
+</div> -->
