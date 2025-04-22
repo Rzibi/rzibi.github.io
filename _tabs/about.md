@@ -75,7 +75,7 @@ Mam nadzieję, że znajdziesz tutaj coś, co pozwoli Ci dowiedzieć się czegoś
 
 Znalazłeś jakiś błąd? Będę wdzięczny, jeśli dasz mi znać na którejś z platform.
 
-Jeszcze raz dziękuję za odwiedzenie mojej strony! Mam nadzieję, że to nie będzie Twój ostatni raz :)
+Jeszcze raz dziękuję za odwiedzenie mojej strony! Mam nadzieję, że to nie będzie Twój ostatni raz :\)
 
 (Dla tych, których zastanawia dziwny miks języków - przyjąłem, trochę arogancko, że menu strony w języku angielskich nie będzie problemem. Postaram się dodać toggle języka, ale nic nie obiecuję :D)
 
@@ -87,7 +87,7 @@ I hope you’ll find something here that helps you learn something new or sparks
 
 Found a mistake? I’d appreciate it if you let me know on one of the platforms.
 
-Thank you again for visiting my page! I hope it won’t be your last time :)
+Thank you again for visiting my page! I hope it won’t be your last time :\)
 
 (for those wondering why most of/all of the posts are in Polish, I'm still to implement a language toggle. I will do it soon! - no promises though :D)
 
