@@ -67,11 +67,31 @@ order: 4
 }
 </style>
 
-## O mnie
 
-Cześć! <br></br> Witaj na moim personalnym blogu, gdzie dzielę się tym, co aktualnie mnie zajmuje. Główne tematy, które poruszam, to analiza danych, statystyka oraz szeroko pojęta sztuczna inteligencja (**AI**), co jest związane z moimi studiami i pracą zawodową. Nie zabraknie tu jednak również tematów takich jak książki czy gry komputerowe (w tym esport), które często sprawiają, że nie piszę tyle kodu, ile bym chciał :D
+(POLISH VERSION BELOW)
 
-Mam nadzieję, że znajdziesz tutaj coś, co pozwoli Ci dowiedzieć się czegoś nowego lub zainteresuje Cię jakimś tematem. A jeśli nie, to mam nadzieję, że przynajmniej miło spędzisz czas, przeglądając moje wpisy. <br></br> <br></br> Jeśli masz pytania, chcesz się ze mną skontaktować lub po prostu porozmawiać, zapraszam do kontaktu przez LinkedIn lub inne platformy widoczne w lewym dolnym rogu strony.
+Hello there! 
+Welcome to my blog, where I share what currently keeps me busy. The latter include data analysis, statistics, and broadly defined artificial intelligence (**AI**), which are closely related to my studies and professional work. However, you’ll also find posts about books or computer games (including esports), which often distract me from writing as much code as I’d like :D
+
+I hope you’ll find something here that helps you learn something new or sparks your interest in a topic. And if not, I hope you’ll at least enjoy your time browsing through my posts. 
+<br><br> 
+If you have any questions, want to get in touch, or simply chat, feel free to contact me via LinkedIn or other platforms visible in the bottom-left corner of the page.
+
+Found a mistake? I’d appreciate it if you let me know on one of the platforms.
+
+Thank you again for visiting my page! I hope it won’t be your last time :\)
+
+(for those wondering why most of/all of the posts are in Polish, I'm still to implement a language toggle. I will do it soon! - no promises though :D)
+
+## Wersja Polska
+
+Cześć!
+
+Witaj na moim personalnym blogu, gdzie dzielę się tym, co aktualnie mnie zajmuje. Główne tematy, które poruszam, to analiza danych, statystyka oraz szeroko pojęta sztuczna inteligencja (**AI**), co jest związane z moimi studiami i pracą zawodową. Nie zabraknie tu jednak również tematów takich jak książki czy gry komputerowe (w tym esport), które często sprawiają, że nie piszę tyle kodu, ile bym chciał :D
+
+Mam nadzieję, że znajdziesz tutaj coś, co pozwoli Ci dowiedzieć się czegoś nowego lub zainteresuje Cię jakimś tematem. A jeśli nie, to mam nadzieję, że przynajmniej miło spędzisz czas, przeglądając moje wpisy. 
+<br><br>
+Jeśli masz pytania, chcesz się ze mną skontaktować lub po prostu porozmawiać, zapraszam do kontaktu przez LinkedIn lub inne platformy widoczne w lewym dolnym rogu strony.
 
 Znalazłeś jakiś błąd? Będę wdzięczny, jeśli dasz mi znać na którejś z platform.
 
@@ -79,17 +99,6 @@ Jeszcze raz dziękuję za odwiedzenie mojej strony! Mam nadzieję, że to nie b�
 
 (Dla tych, których zastanawia dziwny miks języków - przyjąłem, trochę arogancko, że menu strony w języku angielskich nie będzie problemem. Postaram się dodać toggle języka, ale nic nie obiecuję :D)
 
-## About me
-
-Hello there! <br></br> Welcome to my blog, where I share what currently keeps me busy. The latter include data analysis, statistics, and broadly defined artificial intelligence (**AI**), which are closely related to my studies and professional work. However, you’ll also find posts about books or computer games (including esports), which often distract me from writing as much code as I’d like :D
-
-I hope you’ll find something here that helps you learn something new or sparks your interest in a topic. And if not, I hope you’ll at least enjoy your time browsing through my posts. </br></br> If you have any questions, want to get in touch, or simply chat, feel free to contact me via LinkedIn or other platforms visible in the bottom-left corner of the page.
-
-Found a mistake? I’d appreciate it if you let me know on one of the platforms.
-
-Thank you again for visiting my page! I hope it won’t be your last time :\)
-
-(for those wondering why most of/all of the posts are in Polish, I'm still to implement a language toggle. I will do it soon! - no promises though :D)
 
 ## My Experience
 
