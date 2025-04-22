@@ -1,0 +1,73 @@
+/* Custom Color Theme */
+:root {
+    --primary-blue: #4796E3;  /* Blue shade */
+    --primary-purple: #9177C7; /* Purple shade */
+    --secondary-blue: #2D7BCE; /* Slightly darker blue for contrast */
+    --secondary-purple: #7659B6; /* Slightly darker purple for contrast */
+    --highlight-blue: #62A9EB; /* Lighter blue for highlights */
+    --highlight-purple: #A997D3; /* Lighter purple for highlights */
+  }
+  
+  /* Dark mode versions - slightly lighter to maintain visibility */
+  html[data-mode="dark"] {
+    --primary-blue: #5AA3E8;  /* Lighter blue for dark mode */
+    --primary-purple: #A38CD1; /* Lighter purple for dark mode */
+    --secondary-blue: #3D89DA; /* Mid-tone blue for dark mode */
+    --secondary-purple: #8D6DCE; /* Mid-tone purple for dark mode */
+    --highlight-blue: #75B3EF; /* Even lighter blue for highlights in dark mode */
+    --highlight-purple: #B9A7DD; /* Even lighter purple for highlights in dark mode */
+  }
+  
+  /* Timeline customization */
+  .timeline::after {
+    background-color: var(--primary-purple);
+  }
+  
+  .container::after {
+    background-color: var(--body-bg);
+    border: 4px solid var(--primary-blue);
+  }
+  
+  /* Text styling */
+  .date {
+    color: var(--primary-blue);
+    font-weight: 600;
+  }
+  
+  .position {
+    color: var(--primary-purple);
+    font-weight: bold;
+  }
+  
+  .org {
+    color: var(--secondary-blue);
+  }
+  
+  /* Section headings */
+  h2 {
+    color: var(--primary-purple);
+    border-bottom: 2px solid var(--primary-blue);
+    padding-bottom: 0.3rem;
+  }
+  
+  /* Links */
+  a {
+    color: var(--primary-blue);
+    transition: color 0.2s ease;
+  }
+  
+  a:hover {
+    color: var(--highlight-blue);
+    text-decoration: underline;
+  }
+  
+  /* Optional: Button styling */
+  .btn-primary {
+    background-color: var(--primary-blue);
+    border-color: var(--secondary-blue);
+  }
+  
+  .btn-secondary {
+    background-color: var(--primary-purple);
+    border-color: var(--secondary-purple);
+  }
