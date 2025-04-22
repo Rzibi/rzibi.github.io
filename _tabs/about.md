@@ -3,6 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
+
 <style>
 .timeline {
   position: relative;
@@ -14,7 +15,7 @@ order: 4
   content: '';
   position: absolute;
   width: 2px;
-  background-color: var(--border-color);
+  background-color: #333;
   top: 0;
   bottom: 0;
   left: 15px;
@@ -34,23 +35,23 @@ order: 4
   width: 16px;
   height: 16px;
   left: 15px;
-  background-color: var(--body-bg);
-  border: 4px solid var(--link-color);
+  background-color: #718096;
+  border: 4px solid #4A5568;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
-  margin-left: -8px; /* Changed from -17px to center the dot on the line */
+  margin-left: -17px;
 }
 
 .date {
   font-weight: bold;
   margin-bottom: 5px;
-  color: var(--heading-color);
+  color: #2D3748;
 }
 
 .org {
   font-style: italic;
-  color: var(--text-muted-color);
+  color: #4A5568;
   margin-bottom: 8px;
 }
 
@@ -58,13 +59,12 @@ order: 4
   font-weight: bold;
   font-size: 1.2em;
   margin-bottom: 10px;
-  color: var(--text-color);
+  color: #1A202C;
 }
 
 .details ul {
   margin-top: 0;
   margin-bottom: 15px;
-  color: var(--text-color);
 }
 </style>
 
