@@ -14,7 +14,6 @@ order: 4
   content: '';
   position: absolute;
   width: 2px;
-  background-color: var(--border-color);
   top: 0;
   bottom: 0;
   left: 15px;
@@ -33,8 +32,7 @@ order: 4
   position: absolute;
   width: 12px;
   height: 12px;
-  background-color: var(--body-bg);
-  border: 3px solid var(--link-color);
+  border: 3px solid;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
@@ -64,11 +62,6 @@ order: 4
   margin-bottom: 15px;
 }
 
-/* Adjust for dark mode if needed */
-html[data-mode="dark"] .container::after {
-  background-color: var(--body-bg);
-  border-color: var(--link-color);
-}
 </style>
 
 ## My Experience
