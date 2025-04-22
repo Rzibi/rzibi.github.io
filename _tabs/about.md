@@ -96,13 +96,13 @@ Thank you again for visiting my page! I hope it won’t be your last time :)
 <div class="timeline">
   <div class="container">
     <div class="date">01.2023 - now</div>
-    <div class="org"><a href="https://www.grupaiqs.pl/en">IQS Sp. z o.o.</a> - Warsaw, Poland (market research)</div>
+    <div class="org">IQS Sp. z o.o. - Warsaw, Poland (market research)</div>
     <div class="position">Data Analyst</div>
   </div>
   
   <div class="container">
     <div class="date">07.2021 - 12.2022</div>
-    <div class="org"><a href="https://www.grupaiqs.pl/en">IQS Sp. z o.o.</a> - Warsaw, Poland</div>
+    <div class="org">IQS Sp. z o.o. - Warsaw, Poland</div>
     <div class="position">IT Support/Junior Web Developer</div>
   </div>
 </div>
